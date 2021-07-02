@@ -1,0 +1,20 @@
+.method public hidebysig instance void  Method1() cil managed
+{
+  // Code size       24 (0x18)
+  .maxstack  2
+  .locals init (int32 V_0)
+  IL_0000:  ldc.i4.0
+  IL_0001:  stloc.0
+  IL_0002:  br.s       IL_0012
+  IL_0004:  ldstr      "."
+  IL_0009:  call       void [System.Console]System.Console::WriteLine(string)
+  IL_000e:  ldloc.0
+  IL_000f:  ldc.i4.1
+  IL_0010:  add
+  IL_0011:  stloc.0
+  IL_0012:  ldloc.0
+  IL_0013:  ldc.i4.s   10
+  IL_0015:  blt.s      IL_0004
+  IL_0017:  ret
+} // end of method Class1::Method1
+
