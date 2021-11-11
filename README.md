@@ -20,3 +20,10 @@ In this C# Pill I want to focus on the relation between two of them: the `while`
 **Question**
 
 - Is the `for` statement just a condensed way of writing a `while` statement?
+
+## Donations
+
+> If you like my work and want to support me, you can buy me a coffee:
+>
+> [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y62EZ8H)
+
